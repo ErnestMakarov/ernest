@@ -1,0 +1,130 @@
+
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-50 {
+            animation: shake 4s ease-in 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-62 {
+            animation: shake 5s ease-in 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-61 {
+            animation: shake 3.5s ease-in-out 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-60 {
+            animation: shake 2.9s ease 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-59 {
+            animation: shake 4.3s ease 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-58 {
+            animation: shake 5s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-57 {
+            animation: shake 4s ease 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-56 {
+            animation: shake 4.8s ease-in-out 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-55 {
+            animation: shake 5s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-54 {
+            animation: shake 5s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-53 {
+            animation: shake 5s ease 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-52 {
+            animation: shake 5s ease 0s infinite normal forwards;
+          }
+        
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-10px); }
+        75% { transform: translateX(10px); }
+      }
+
+          #element-51 {
+            animation: shake 5s ease 0s infinite normal forwards;
+          }

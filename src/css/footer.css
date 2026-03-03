@@ -1,0 +1,23 @@
+.footer {
+    height: 60px;
+    align-items: center;
+}
+
+.footer-container  {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-icons   {
+    color: #fff;
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    transition: transform .3s ease;
+}
+
+.social-icons a:hover   {
+    transform: scale(1.1);
+}

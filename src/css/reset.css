@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transform-box: fill-box;
+  transform-origin: center;
+}
+
+body, html  {
+    margin: 0;
+    padding: 0;
+    background-color: #000319;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+img, a {
+    user-select: none;
+}
+
+button  {
+    cursor: pointer;
+    user-select: none;
+}
+
+.container  {
+    max-width: 1280px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+ul  {
+    list-style: none;
+}
+
+a   {
+    text-decoration: none;
+}
+
+::selection {
+    background-color: #fff;
+    color: #000319;
+}
+
+body::-webkit-scrollbar {
+  width: 15px;               /* ширина всей полосы прокрутки */
+}
+
+body::-webkit-scrollbar-track {
+  background: #000319;        /* цвет зоны отслеживания */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #000319;    /* цвет бегунка */
+  border-radius: 20px;       /* округлось бегунка */
+  border: 2px solid #fff;  /* отступ вокруг бегунка */
+}
