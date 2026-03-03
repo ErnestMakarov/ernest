@@ -16,7 +16,7 @@ const Projects = () => {
                             and high conversion. The design highlights key offers, menu items, and calls to action, 
                             creating an engaging and appetizing user experience.
                             Fully responsive and optimized for speed and usability.</p>
-                        <a href="#">visit <GoArrowUpRight /></a>
+                        <a href="/">visit <GoArrowUpRight /></a>
                     </div>
                 </div>  
 
