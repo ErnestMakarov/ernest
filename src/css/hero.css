@@ -46,7 +46,8 @@
     width: 195px;
     height: 66px;
     background: #04071D;
-    background: linear-gradient(90deg, #04071D 0%, #0C0E23 50%, #04071D 100%);
+    background: linear-gradient(90deg, #04071D 0%, #050828 50%, #04071D 100%);
+    opacity: 0.7 !important;
     border-radius: 14px;
     text-align: center;
     color: #fff;
@@ -56,11 +57,13 @@
     user-select: none;
     transition: transform 0.2s ease;
     transition: border 0.2s ease;
+    gap: 3px;
 }
 
 .hero-btn:hover {
     transform: translate(0px, -2px);
     border: 1px solid #fff;
+    opacity: 1;
 }
 
 @media (max-width: 1000px) {

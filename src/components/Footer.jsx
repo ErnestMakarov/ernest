@@ -11,7 +11,7 @@ const Footer = () => {
                     <a href="/"><img src={Inst} alt="instagram" /></a>
                     <a href="/"><img src={Tg} alt="telegram" /></a>
                 </div>
-                <p>Ernest Makarov. All rights are recived</p>
+                <p>Ernest Makarov. All rights reserved</p>
             </div>
         </div>
     </footer>  
