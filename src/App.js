@@ -9,6 +9,8 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
+import CursorGlow from "./components/CursorGlow";
+
 import { useEffect } from 'react';
 
 function App() {
@@ -22,6 +24,7 @@ function App() {
 
   return (
     <div className="wrapper">
+      <CursorGlow />
       <Header />
       <Hero />
       <Process />

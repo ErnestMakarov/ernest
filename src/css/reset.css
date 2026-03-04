@@ -67,3 +67,17 @@ body::-webkit-scrollbar-thumb {
 
     overflow-x: hidden;
 }
+
+.cursor-glow {
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    background: radial-gradient(circle, rgba(108, 126, 195, 0.8) 0%, transparent 70%);
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    filter: blur(40px);
+}
+
+
