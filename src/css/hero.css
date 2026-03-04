@@ -55,13 +55,11 @@
     border: #838383 1px solid;
     font-size: 14px;
     user-select: none;
-    transition: transform 0.2s ease;
     transition: border 0.2s ease;
     gap: 3px;
 }
 
 .hero-btn:hover {
-    transform: translate(0px, -2px);
     border: 1px solid #fff;
     opacity: 1;
 }

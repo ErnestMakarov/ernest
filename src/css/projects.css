@@ -2,6 +2,11 @@
     background-image: url("../img/bg-1.png");
     margin-top: 40px;
     display: flex;
+    position: relative;
+}
+
+.first-project{
+    justify-content: end;
 }
 
 .purple-text    {
@@ -41,7 +46,6 @@
 }
 
 .first-project-cart {
-
     margin-left: 70px;
 }
 
@@ -61,6 +65,14 @@
     border-radius: 15px;
 }
 
+.first-project-text    {
+    position: absolute;
+    left: 0;
+    z-index: 2;
+
+    max-width: 650px;
+}
+
 .second-project-text    {
     text-align: right;
 }
@@ -72,10 +84,6 @@
     color: #fff;
     text-decoration: underline;
     font-weight: 600;
-}
-
-.project {
-    position: relative;
 }
 
 .project-cart {
@@ -95,7 +103,12 @@
     .project-cart   {
         border: none;
         border-radius: 0;
+        padding: 10px 15px;
     }
+
+    .first-project-text    {
+        position: relative;
+    }      
 
     .first-project-cart {
         margin-left: 0px;
