@@ -10,13 +10,15 @@ const Projects = () => {
             <div className="first-project   project">
                 <div data-aos="fade-right" className="first-project-text">
                     <p className='purple-text'>Featured  Project</p>
-                    <h4>Fatfood website</h4>
+                    <h4>Voltamp website</h4>
                     <div className="first-project-cart project-cart">
-                        <p>A modern one-page website for a fast food brand, focused on bold visuals, clear structure,
-                            and high conversion. The design highlights key offers, menu items, and calls to action, 
-                            creating an engaging and appetizing user experience.
-                            Fully responsive and optimized for speed and usability.</p>
-                        <a href="/">visit <GoArrowUpRight /></a>
+                        <p>A large-scale corporate website for an electrical solutions company, 
+                            designed to deliver a strong, modern, and trustworthy online presence. 
+                            The platform includes detailed service pages, project showcases, 
+                            and clear contact sections, covering everything a client needs in one place.
+                             Fully responsive and performance-optimized, the site provides a smooth and 
+                             professional experience across all devices.</p>
+                        <a target='blank' href="https://voltamp.ee/en">visit <GoArrowUpRight /></a>
                     </div>
                 </div>  
 
