@@ -34,11 +34,10 @@ const Projects = () => {
                     <p className='purple-text'>Featured  Project</p>
                     <h4>EXFRAG brand website</h4>
                     <div className="second-project-cart project-cart">
-                        <p>A brand website for an archive clothing label with a simplified purchase flow. 
-                            Users can browse products, add items to the cart, and choose a preferred social
-                            network to contact the brand directly and complete the order.
-                            The project focuses on product presentation, basic e-commerce logic,
-                            and responsive layout rather than complex payment systems.</p>
+                        <p>A fashion brand website designed for EXFRAG, blending archive aesthetics with a modern digital experience.
+                             Visitors can explore collections, view detailed product pages, browse past releases, and connect with
+                              the brand through an intuitive interface. The project focuses on visual storytelling, responsive design,
+                               and creating a distinctive online presence for an independent clothing label.</p>
                         <a target='blank' href="https://www.exfrag.eu/">visit <GoArrowUpRight /></a>
                     </div>
                 </div>
