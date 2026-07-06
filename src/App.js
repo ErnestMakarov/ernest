@@ -13,6 +13,8 @@ import CursorGlow from "./components/CursorGlow";
 
 import { useEffect } from 'react';
 
+import { Analytics } from "@vercel/analytics/react"
+
 function App() {
 
     useEffect(() => {
@@ -24,6 +26,7 @@ function App() {
 
   return (
     <div className="wrapper">
+      <Analytics />
       <CursorGlow />
       <Header />
       <Hero />
